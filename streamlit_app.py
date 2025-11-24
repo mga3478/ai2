@@ -47,7 +47,7 @@ if "last_prediction" not in st.session_state:
 # ======================
 FILE_ID = st.secrets.get("GDRIVE_FILE_ID", "1uj2lD8goJDLo9uSg_8HcT4bxnl2trPc8")
 MODEL_PATH = st.secrets.get("MODEL_PATH", "model.pkl")
-
+1wTHzfvbFSsVupqWi6aRQZ3UGrGYjECaq
 @st.cache_resource
 def load_model_from_drive(file_id: str, output_path: str):
     if not os.path.exists(output_path):
