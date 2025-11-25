@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-labels[0]:{"texts":["중국식 냉면은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoman.chosun.com%2Fnews%2FarticleView.html%3Fidxno%3D107306&psig=AOvVaw1rTNP8HNQ0Ew302EVhh4AG&ust=1764123541631000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiLnMKejJEDFQAAAAAdAAAAABAE]},
-labels[1]:{"texts":["짜장면은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2F.health.chosun.com%2Fsvc%2Fnews_view.html%3Fcontid%3D2024080201855&psig=AOvVaw0z-fIPWYUFZQenzhFku_lg&ust=1764041212463000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDL6-briZEDFQAAAAAdAAAAABAL]},
-labels[2]:{"texts":["짬뽕은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw2qAMLQLHGc8Im5gpKs2ftS&ust=1764041513501000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjCk_bsiZEDFQAAAAAdAAAAABAL]},
-labels[3]:{"texts":["탕수육은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2583%2595%25EC%2588%2598%25EC%259C%25A1%3Fuuid%3Dc1228c80-ee48-4b59-8d8d-02d8b642d0bd&psig=AOvVaw25iGmEnzf-efYum-GkoYoH&ust=1764041582212000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDtl5ftiZEDFQAAAAAdAAAAABAE]},  
+labels[0]:{"texts": ["중국식 냉면은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoman.chosun.com%2Fnews%2FarticleView.html%3Fidxno%3D107306&psig=AOvVaw1rTNP8HNQ0Ew302EVhh4AG&ust=1764123541631000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiLnMKejJEDFQAAAAAdAAAAABAE]},
+labels[1]:{"texts": ["짜장면은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2F.health.chosun.com%2Fsvc%2Fnews_view.html%3Fcontid%3D2024080201855&psig=AOvVaw0z-fIPWYUFZQenzhFku_lg&ust=1764041212463000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDL6-briZEDFQAAAAAdAAAAABAL]},
+labels[2]:{"texts": ["짬뽕은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw2qAMLQLHGc8Im5gpKs2ftS&ust=1764041513501000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjCk_bsiZEDFQAAAAAdAAAAABAL]},
+labels[3]:{"texts": ["탕수육은 맛있어"], "images": [https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2583%2595%25EC%2588%2598%25EC%259C%25A1%3Fuuid%3Dc1228c80-ee48-4b59-8d8d-02d8b642d0bd&psig=AOvVaw25iGmEnzf-efYum-GkoYoH&ust=1764041582212000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDtl5ftiZEDFQAAAAAdAAAAABAE]},  
 }
 # ======================
 # 유틸
